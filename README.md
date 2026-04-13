@@ -4,9 +4,7 @@ Modern ve kullanıcı dostu bir IT envanter yönetim sistemi. Bilgisayar, yazıc
 
 ## 🌐 Demo
 
-👉 **[Canlı Demo](https://<alpsencers>.github.io/it-envanter/)**
-
-> ⚠️ Yukarıdaki linkteki `<KULLANICI-ADINIZ>` kısmını kendi GitHub kullanıcı adınızla değiştirin.
+👉 **[Canlı Demo](https://Alpsencers.github.io/it-envanter/)**
 
 ## ✨ Özellikler
 
@@ -41,7 +39,7 @@ Modern ve kullanıcı dostu bir IT envanter yönetim sistemi. Bilgisayar, yazıc
 Projeyi yerel ortamınızda çalıştırmak için:
 
 ```bash
-git clone https://github.com/<KULLANICI-ADINIZ>/it-envanter.git
+git clone https://github.com/Alpsencers/it-envanter.git
 cd it-envanter
 ```
 
@@ -70,3 +68,4 @@ Bu proje [MIT](LICENSE) lisansı altında sunulmaktadır.
 ---
 
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
+
