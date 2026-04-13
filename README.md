@@ -4,7 +4,7 @@ Modern ve kullanıcı dostu bir IT envanter yönetim sistemi. Bilgisayar, yazıc
 
 ## 🌐 Demo
 
-👉 **[Canlı Demo](https://<Alpsencers>.github.io/it-envanter/)**
+👉 **[Canlı Demo](https://<alpsencers>.github.io/it-envanter/)**
 
 > ⚠️ Yukarıdaki linkteki `<KULLANICI-ADINIZ>` kısmını kendi GitHub kullanıcı adınızla değiştirin.
 
