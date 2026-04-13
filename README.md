@@ -18,13 +18,6 @@ Modern ve kullanıcı dostu bir IT envanter yönetim sistemi. Bilgisayar, yazıc
 - **Responsive Tasarım** — Masaüstü ve mobil cihazlarda uyumlu görünüm
 - **localStorage** — Tüm veriler tarayıcıda saklanır, sunucu gerektirmez
 
-## 📸 Ekran Görüntüleri
-
-| Aydınlık Tema | Karanlık Tema |
-|:-:|:-:|
-| ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
-
-> Ekran görüntülerini eklemek için `screenshots/` klasörü oluşturup resimlerinizi oraya koyabilirsiniz.
 
 ## 🛠️ Kullanılan Teknolojiler
 
